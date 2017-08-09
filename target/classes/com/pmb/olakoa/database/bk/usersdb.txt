@@ -1,0 +1,4 @@
+3, j@hotmail.com, joao, alencar, ja, 123, USER, true
+4, w@hotmail.com, william, barbosa, wpmb, 123, USER, true
+5, roberto@hotmail.com, Roberto, Silva, rs, 10, SHOPPER, true
+6, ju@hotmail.com, Ju, Oliveira, ju, 1, ADMIN, true
